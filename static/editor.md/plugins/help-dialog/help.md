@@ -1,3 +1,4 @@
+
 ##### Markdown语法教程 (Markdown syntax tutorial)
 
 - [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax/ "Markdown Syntax")
@@ -6,6 +7,14 @@
 - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/ "GitHub Flavored Markdown")
 - [Markdown 语法说明（简体中文）](https://www.iminho.me/wiki/docs/mindoc/markdown-basic.md "Markdown 语法说明（简体中文）")
 - [Markdown 語法說明（繁體中文）](http://markdown.tw/ "Markdown 語法說明（繁體中文）")
+
+##### 补充说明20230318
+ - 有关设置文件：static/editor.md/editormd.js {@link       https://github.com/pandao/editor.md}
+ - 支持ToC目录，语法为： [TOC]  或者  [TOCM]
+```
+    toc                  : true,          // Table of contents
+    tocm                 : false,         // Using [TOCM], auto create ToC dropdown menu
+```
 
 ##### 键盘快捷键 (Keyboard shortcuts)
 
